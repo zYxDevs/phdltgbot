@@ -4,6 +4,7 @@ pyrogram
 httpx[http2]>=0.18.1,<1.0.0
 
 # others
+aiohttp
 psutil
 python-ffmpeg
 pornhub-api==0.2.0
